@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x59c2e601198936327b5718e1a30eab613bb6bab5",
-  "SCAN_LINK": "https://polygonscan.com/address/0x59c2e601198936327b5718e1a30eab613bb6bab5",
+  "CONTRACT_ADDRESS": "0xA782A46a254c6b757e795BC63a54e3e9C98D5828",
+  "SCAN_LINK": "https://polygonscan.com/address/0xA782A46a254c6b757e795BC63a54e3e9C98D5828",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Polygon Fancy Dragons",
-  "SYMBOL": "FD",
-  "MAX_SUPPLY": 6666,
-  "WEI_COST": 600000000000000000,
-  "DISPLAY_COST": "0.6",
+  "NFT_NAME": "Cool Pepe",
+  "SYMBOL": "CP",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": "0.5",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/fancy-dragons-polygon",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cool-pepes",
   "SHOW_BACKGROUND": true
 }
