@@ -381,9 +381,7 @@ function App() {
   
   
   
-  
-                    </s.Container>
-                    <s.SpacerSmall />
+ 
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledButton
                         disabled={claimingNft ? 1 : 0}
