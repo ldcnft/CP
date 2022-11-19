@@ -416,7 +416,7 @@ function App() {
   
   
                     </s.Container>
-  
+  <s.SpacerMedium />
   
  
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
