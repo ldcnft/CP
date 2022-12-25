@@ -3,14 +3,14 @@
   "SCAN_LINK": "https://polygonscan.com/address/0xa3557D6D2A5C223641CDF6384a1e3228600B0ab4",
   "NETWORK": {
     "NAME": "Polygon",
-    "SYMBOL": "🎅🏻🎁",
+    "SYMBOL": "Matic 🎅🏻🎁",
     "ID": 137
   },
   "NFT_NAME": "Cool Pepes",
   "SYMBOL": "CP",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 0,
-  "DISPLAY_COST": "Free",
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": "Only 0.01",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cool-pepes",
