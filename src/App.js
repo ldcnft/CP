@@ -224,13 +224,13 @@ function App() {
     setMintAmount(newMintAmount);
   };
 
-  const twentyfiveMintAmount = () => {
-    let newMintAmount = 25;
+  const twentyMintAmount = () => {
+    let newMintAmount = 20;
     setMintAmount(newMintAmount);
   };
 
-  const fiftyMintAmount = () => {
-    let newMintAmount = 50;
+  const thirtyMintAmount = () => {
+    let newMintAmount = 30;
     setMintAmount(newMintAmount);
   };
 
