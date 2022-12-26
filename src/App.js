@@ -203,8 +203,8 @@ function App() {
   };
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 2) {
-      newMintAmount = 2;
+    if (newMintAmount > 50) {
+      newMintAmount = 50;
     }
     setMintAmount(newMintAmount);
   };
@@ -425,7 +425,7 @@ function App() {
                     </s.Container>
                     <s.SpacerMedium />
 
-                    {/* <s.Container ai={"center"} jc={"center"} fd={"row"}>
+                    {<s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledRoundButton
                         style={{ background: "none" }}
                         disabled={claimingNft ? 1 : 0}
@@ -465,7 +465,7 @@ function App() {
                       <s.SpacerSmall />
                     </s.Container>
 
-                    <s.SpacerSmall /> */}
+                    <s.SpacerSmall />
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledButton
                         disabled={claimingNft ? 1 : 0}
