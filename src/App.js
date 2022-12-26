@@ -425,9 +425,12 @@ function App() {
                     </s.Container>
                     <s.SpacerMedium />
 
-                    {<s.Container ai={"center"} jc={"center"} fd={"row"}>
-                      <StyledRoundButton
-                        style={{ background: "none" }}
+<s.Container ai={"center"} jc={"center"} fd={"row"}>
+
+  
+  
+  
+                        <StyledRoundButton
                         disabled={claimingNft ? 1 : 0}
                         onClick={(e) => {
                           e.preventDefault();
@@ -437,35 +440,49 @@ function App() {
                       >
                         10
                       </StyledRoundButton>
-                      <s.SpacerMedium />
+<s.SpacerMedium />
                       <StyledRoundButton
-                        style={{ background: "none" }}
                         disabled={claimingNft ? 1 : 0}
                         onClick={(e) => {
                           e.preventDefault();
-                          twentyfiveMintAmount();
+                          twentyMintAmount();
                           getData();
                         }}
                       >
-                        25
+                        20
                       </StyledRoundButton>
-                      <s.SpacerMedium />
+<s.SpacerMedium />
                       <StyledRoundButton
-                        style={{ background: "none" }}
                         disabled={claimingNft ? 1 : 0}
                         onClick={(e) => {
                           e.preventDefault();
-                          fiftyMintAmount();
+                          thirtyMintAmount();
+                          getData();
+                        }}
+                      >
+                        30
+                      </StyledRoundButton>
+<s.SpacerMedium />
+                      <StyledRoundButton
+                        disabled={claimingNft ? 1 : 0}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          maxMintAmount();
                           getData();
                         }}
                       >
                         Max
                       </StyledRoundButton>
-
-                      <s.SpacerSmall />
+  
+  
+  
+  
+  
                     </s.Container>
 
-                    <s.SpacerSmall />
+<s.SpacerMedium />
+
+
                     <s.Container ai={"center"} jc={"center"} fd={"row"}>
                       <StyledButton
                         disabled={claimingNft ? 1 : 0}
