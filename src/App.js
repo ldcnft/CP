@@ -188,7 +188,7 @@ function App() {
           dispatch(fetchData(blockchain.account));
         });
     }
-  }
+  };
 
   const decrementMintAmount = () => {
     let newMintAmount = mintAmount - 1;
