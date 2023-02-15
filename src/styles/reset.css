@@ -131,7 +131,7 @@ table {
 
 body {
   margin: 0;
-  font-family: "Frog",
+  font-family: "Frog";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 500;
