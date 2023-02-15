@@ -254,7 +254,7 @@ function App() {
     <s.Screen>
       <s.Container flex={1} ai={"center"} style={{ padding: 24 }}>
         <a href={CONFIG.MARKETPLACE_LINK}>
-          <StyledLogo alt={"logo"} src={"/config/logo.png"} />
+          <StyledLogo alt={"logo"} src={"/config/Logo.gif"} />
         </a>
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.SpacerLarge />
