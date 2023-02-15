@@ -123,13 +123,15 @@ table {
   border-spacing: 0;
 }
 
+@font-face {
+  font-family: Frog;
+  src: url(../Frog.otf);
+}
 
-
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap');
 
 body {
   margin: 0;
-  font-family: "Cairo", "sans-serif", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+  font-family: "Frog", "sans-serif", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
