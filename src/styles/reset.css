@@ -131,8 +131,7 @@ table {
 
 body {
   margin: 0;
-  font-family: "Frog", "sans-serif", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
-    "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: "Frog",
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 500;
