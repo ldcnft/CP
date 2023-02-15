@@ -31,7 +31,7 @@ export const StyledRoundButton = styled.button`
   background-color: transparent;
   padding: 10px;
   font-family: "Frog";
-  font-size: 15px;
+  font-size: 16px;
   color: var(--primary-text);
   width: 30px;
   height: 30px;
