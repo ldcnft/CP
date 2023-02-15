@@ -129,7 +129,7 @@ table {
 }
 
 
-body {
+* {
   margin: 0;
   font-family: "Frog",
   -webkit-font-smoothing: antialiased;
