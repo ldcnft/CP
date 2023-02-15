@@ -58,9 +58,12 @@ export const ResponsiveWrapper = styled.div`
 `;
 export const StyledLogo = styled.img`
   width: 200px;
+  
   @media (min-width: 767px) {
-    width: 200px;
-    padding-top: 50px;
+    width: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 50px;
   }
   transition: width 0.5s;
   transition: height 0.5s;
