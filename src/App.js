@@ -14,7 +14,7 @@ export const StyledButton = styled.button`
   border: none;
   background-color: transparent;
   padding: 10px;
-  font-weight: bold;
+  font-family: "Frog";
   color: var(--secondary-text);
   width: 100px;
   cursor: pointer;
@@ -30,7 +30,7 @@ export const StyledRoundButton = styled.button`
   background-color: var(--primary);
   background-color: transparent;
   padding: 10px;
-  font-weight: bold;
+  font-family: "Frog";
   font-size: 15px;
   color: var(--primary-text);
   width: 30px;
