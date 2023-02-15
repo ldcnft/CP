@@ -7,12 +7,12 @@
     "ID": 137
   },
   "NFT_NAME": "Cool Pepes",
-  "SYMBOL": "CP 🐸",
+  "SYMBOL": "Cool Pepe 🐸",
   "MAX_SUPPLY": 5000,
   "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": "1",
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cool-pepes",
   "SHOW_BACKGROUND": true
 }
